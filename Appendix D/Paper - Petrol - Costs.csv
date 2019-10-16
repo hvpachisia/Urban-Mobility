@@ -1,0 +1,64 @@
+,,,,,,,,,,,,,,,,,
+BKC,,,,,,,,,,,,,,,,,
+,,,Cars,,,,,,,Two Wheelers,,,,,,,
+Source,Destination,Distance (in km),Petrol consumption per km,Litres of petrol consumed in free flow per route,Route level TTI ,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Cost of petrol per litre,Additional petrol costs per route,Petrol consumption per km,Litres of petrol consumed in free flow per route,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Additional petrol costs per route,Share of Cars,Share of Two Wheelers,Additional Petrol Consumed (Weighted Average of Cars + Two Wheelers)
+Borivali,BKC,22.52,0.047,1.06,2.88,3.05,1.99,75.84,151.22,0.017,0.38,1.10,0.72,54.70,36%,64%,89.45
+Andheri West,BKC,13.76,0.047,0.65,2.03,1.32,0.67,75.84,50.69,0.017,0.23,0.48,0.24,18.34,36%,64%,29.98
+Marine Drive,BKC,19.68,0.047,0.92,1.41,1.30,0.38,75.84,28.79,0.017,0.33,0.47,0.14,10.41,36%,64%,17.03
+Chembur,BKC,9.06,0.047,0.43,2.60,1.11,0.68,75.84,51.53,0.017,0.15,0.40,0.25,18.64,36%,64%,30.48
+BKC,Borivali,22.48,0.047,1.06,3.53,3.73,2.67,75.84,202.71,0.017,0.38,1.35,0.97,73.32,36%,64%,119.90
+BKC,Andheri West,15.48,0.047,0.73,2.61,1.90,1.17,75.84,89.01,0.017,0.26,0.69,0.42,32.19,36%,64%,52.65
+BKC,Marine Drive,20.05,0.047,0.94,2.03,1.91,0.97,75.84,73.53,0.017,0.34,0.69,0.35,26.60,36%,64%,43.49
+BKC,Chembur,9.07,0.047,0.43,3.20,1.36,0.94,75.84,71.17,0.017,0.15,0.49,0.34,25.74,36%,64%,42.10
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Andheri East,,,,,,,,,,,,,,,,,
+,,,Cars,,,,,,,Two Wheelers,,,,,,,
+Source,Destination,Distance (in km),Petrol consumption per km,Litres of petrol consumed in free flow per route,Route level TTI ,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Cost of petrol per litre,Additional petrol costs per route,Petrol consumption per km,Litres of petrol consumed in free flow per route,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Additional petrol costs per route,Share of Cars,Share of Two Wheelers,Additional Petrol Consumed (Weighted Average of Cars + Two Wheelers)
+Borivali,Andheri East,13.85,0.047,0.65,3.39,2.21,1.56,75.84,118.00,0.017,0.24,0.80,0.56,42.68,36%,64%,69.80
+Andheri West,Andheri East,5.38,0.047,0.25,1.66,0.42,0.17,75.84,12.71,0.017,0.09,0.15,0.06,4.60,36%,64%,7.52
+Marine Drive,Andheri East,26.37,0.047,1.24,1.46,1.81,0.58,75.84,43.64,0.017,0.45,0.66,0.21,15.79,36%,64%,25.81
+Chembur,Andheri East,14.86,0.047,0.70,2.04,1.42,0.73,75.84,55.09,0.017,0.25,0.52,0.26,19.93,36%,64%,32.59
+Andheri East,Borivali,13.17,0.047,0.62,4.20,2.60,1.98,75.84,150.06,0.017,0.22,0.94,0.72,54.28,36%,64%,88.76
+Andheri East,Andheri West,4.46,0.047,0.21,2.77,0.58,0.37,75.84,28.08,0.017,0.08,0.21,0.13,10.16,36%,64%,16.61
+Andheri East,Marine Drive,26.15,0.047,1.23,1.98,2.44,1.21,75.84,91.73,0.017,0.44,0.88,0.44,33.18,36%,64%,54.26
+Andheri East,Chembur,16.35,0.047,0.77,2.46,1.89,1.12,75.84,84.86,0.017,0.28,0.68,0.40,30.69,36%,64%,50.19
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Malad,,,,,,,,,,,,,,,,,
+,,,Cars,,,,,,,Two Wheelers,,,,,,,
+Source,Destination,Distance (in km),Petrol consumption per km,Litres of petrol consumed in free flow per route,Route level TTI ,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Cost of petrol per litre,Additional petrol costs per route,Petrol consumption per km,Litres of petrol consumed in free flow per route,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Additional petrol costs per route,Share of Cars,Share of Two Wheelers,Additional Petrol Consumed (Weighted Average of Cars + Two Wheelers)
+Borivali,Malad,5.13,0.047,0.24,2.72,0.66,0.41,75.84,31.39,0.017,0.09,0.24,0.15,11.36,36%,64%,18.57
+Andheri West,Malad,7.95,0.047,0.37,1.39,0.52,0.15,75.84,11.16,0.017,0.14,0.19,0.05,4.04,36%,64%,6.60
+Marine Drive,Malad,32.79,0.047,1.54,1.40,2.15,0.61,75.84,46.49,0.017,0.56,0.78,0.22,16.81,36%,64%,27.50
+Chembur,Malad,22.56,0.047,1.06,1.76,1.86,0.80,75.84,60.80,0.017,0.38,0.67,0.29,21.99,36%,64%,35.96
+Malad,Borivali,4.77,0.047,0.22,3.02,0.68,0.45,75.84,34.42,0.017,0.08,0.25,0.16,12.45,36%,64%,20.36
+Malad,Andheri West,8.16,0.047,0.38,2.29,0.88,0.50,75.84,37.58,0.017,0.14,0.32,0.18,13.59,36%,64%,22.23
+Malad,Marine Drive,33.53,0.047,1.58,1.95,3.07,1.50,75.84,113.42,0.017,0.57,1.11,0.54,41.03,36%,64%,67.09
+Malad,Chembur,23.73,0.047,1.12,2.30,2.57,1.45,75.84,110.03,0.017,0.40,0.93,0.52,39.80,36%,64%,65.08
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Nariman Point,,,,,,,,,,,,,,,,,
+,,,Cars,,,,,,,Two Wheelers,,,,,,,
+Source,Destination,Distance (in km),Petrol consumption per km,Litres of petrol consumed in free flow per route,Route level TTI ,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Cost of petrol per litre,Additional petrol costs per route,Petrol consumption per km,Litres of petrol consumed in free flow per route,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Additional petrol costs per route,Share of Cars,Share of Two Wheelers,Additional Petrol Consumed (Weighted Average of Cars + Two Wheelers)
+Borivali,Nariman Point,38.58,0.047,1.81,2.41,4.38,2.57,75.84,194.56,0.017,0.66,1.58,0.93,70.37,36%,64%,115.08
+Andheri West,Nariman Point,30.71,0.047,1.44,2.06,2.98,1.53,75.84,116.33,0.017,0.52,1.08,0.55,42.08,36%,64%,68.81
+Marine Drive,Nariman Point,1.37,0.047,0.06,1.32,0.08,0.02,75.84,1.54,0.017,0.02,0.03,0.01,0.56,36%,64%,0.91
+Chembur,Nariman Point,18.15,0.047,0.85,1.46,1.25,0.39,75.84,29.91,0.017,0.31,0.45,0.14,10.82,36%,64%,17.69
+Nariman Point,Borivali,38.34,0.047,1.80,2.78,5.01,3.21,75.84,243.25,0.017,0.65,1.81,1.16,87.98,36%,64%,143.88
+Nariman Point,Andheri West,31.33,0.047,1.47,2.42,3.57,2.09,75.84,158.86,0.017,0.53,1.29,0.76,57.46,36%,64%,93.96
+Nariman Point,Marine Drive,0.94,0.047,0.04,1.92,0.08,0.04,75.84,3.08,0.017,0.02,0.03,0.01,1.12,36%,64%,1.82
+Nariman Point,Chembur,19.26,0.047,0.91,2.05,1.85,0.95,75.84,71.89,0.017,0.33,0.67,0.34,26.00,36%,64%,42.52
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Lower Parel,,,,,,,,,,,,,,,,,
+,,,Cars,,,,,,,Two Wheelers,,,,,,,
+Source,Destination,Distance (in km),Petrol consumption per km,Litres of petrol consumed in free flow per route,Route level TTI ,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Cost of petrol per litre,Additional petrol costs per route,Petrol consumption per km,Litres of petrol consumed in free flow per route,Litres of petrol consumed in peak hours per route,Additional litres of petrol consumed per route,Additional petrol costs per route,Share of Cars,Share of Two Wheelers,Additional Petrol Consumed (Weighted Average of Cars + Two Wheelers)
+Borivali,Lower Parel,28.14,0.047,1.32,2.94,3.89,2.57,75.84,195.06,0.017,0.48,1.41,0.93,70.55,36%,64%,115.38
+Andheri West,Lower Parel,20.27,0.047,0.95,2.31,2.20,1.25,75.84,94.53,0.017,0.34,0.80,0.45,34.19,36%,64%,55.91
+Marine Drive,Lower Parel,11.09,0.047,0.52,1.52,0.79,0.27,75.84,20.54,0.017,0.19,0.29,0.10,7.43,36%,64%,12.15
+Chembur,Lower Parel,11.72,0.047,0.55,2.44,1.34,0.79,75.84,60.05,0.017,0.20,0.49,0.29,21.72,36%,64%,35.52
+Lower Parel,Borivali,30.06,0.047,1.41,3.36,4.75,3.34,75.84,253.09,0.017,0.51,1.72,1.21,91.54,36%,64%,149.70
+Lower Parel,Andheri West,23.06,0.047,1.08,2.83,3.07,1.99,75.84,150.75,0.017,0.39,1.11,0.72,54.53,36%,64%,89.16
+Lower Parel,Marine Drive,9.61,0.047,0.45,2.42,1.09,0.64,75.84,48.66,0.017,0.16,0.40,0.23,17.60,36%,64%,28.78
+Lower Parel,Chembur,12.15,0.047,0.57,2.59,1.48,0.91,75.84,68.82,0.017,0.21,0.53,0.33,24.89,36%,64%,40.71
