@@ -1,0 +1,6 @@
+Appendix C: Route Level Travel Time Index (TTIs)
+
+The contents of Appendix C are outlined below:
+
+1. Route Level Travel Time Index for the morning commute between residential areas to a Central Business District.
+2. Route Level Travel Time Index for the evening commute between a Central Business District to residential areas.
