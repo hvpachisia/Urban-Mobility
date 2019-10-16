@@ -1,0 +1,20 @@
+Appendix F: Final Scripts
+
+The contents of Appendix F are outlined below:
+
+Part 1 (Getting the final dataset)-
+
+1. Getting the final Mumbai database for Mumbai Data (SQL)
+2. Calculating the centroids of Traffic Analysis Zones (R)
+
+Part 2 (Calculating the TTI, travel times and distances for routes chosen)-
+
+1. Getting distances of a route (R)
+2. Calculating Travel Times and speeds between Central Business Districts and Residential Areas (SQL)
+3. Assigning Unique IDs to partition sourceid, destination id and time period correctly (Python)
+4. Calculating the Travel Time Index for each route (SQL)
+
+Part 3 (Identifying choke points by breaking up the routes into mutltiple segments)-
+
+1. Getting distances between each lat-long pair (SQL)
+2. Identifying the closest Traffic Analysis Zone and calculating the travel times for each segment (SQL)
