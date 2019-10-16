@@ -1,4 +1,4 @@
-# Urban-Mobility
+# Assessing Cities' Labour Market Efficiences using Mumbai Commuting Data
 
 ### Abstract of Paper
 Ease of mobility is crucial for cities’ productivity. Better mobility allows better access to jobs and allows firms access to a larger pool of workers. As cities grow, congestion can rapidly erode productivity as well as impose heavy environmental costs. We use publicly-available Uber Movement data to measure congestion across 40 key routes connecting major Mumbai residential areas to the city’s key business districts. We go on to quantify the economic and environmental costs of congestion. We provide actionable results for policymakers by identifying chokepoints, specific route segments which contribute to congestion. Left unaddressed, the situation will have damaging effects on the potential benefits of agglomeration and, ultimately, Mumbai’s productivity.
