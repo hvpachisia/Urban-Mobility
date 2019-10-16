@@ -1,0 +1,8 @@
+Appendix E: Travel Times and Speeds of Segments of Routes Analysed
+
+The contents of Appendix E are outlined below:
+
+1. Excel files of all routes (with segments) between a Central Business District and residential areas.
+2. One master file to showcase all segments across all routes analysed. 
+
+These files include travel times and speeds for each segment to identify potential chokepoints
