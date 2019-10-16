@@ -1,0 +1,8 @@
+Appendix B: Travel Times and Speeds of Commute Trips
+
+The contents of this appendix are outlined below:
+
+1. Residential Areas to Central Business District Trips (Morning Commute)
+2. Central Business Trips to Residential Areas (Evening Commute)
+
+Each CSV file contains the travel time and travel speed calculated. 
