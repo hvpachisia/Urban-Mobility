@@ -1,0 +1,12 @@
+SELECT
+a.sourceid,
+a.time_period,
+a.hod,
+AVG(mean_travel_time) OVER (partition by time_period) AS average_time
+INTO uber.mumbai_colaba
+FROM
+uber.mumbai_weekly_certain_area AS a
+WHERE
+sourceid=187 AND (hod BETWEEN 17 AND 19);
+
+COPY uber.mumbai_colaba TO '/Users/Harsh/Desktop/Uber_Movement/mumbai_colaba.csv' DELIMITER ',' CSV HEADER;

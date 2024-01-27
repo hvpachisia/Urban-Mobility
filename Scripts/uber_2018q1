@@ -1,0 +1,18 @@
+SELECT	
+ a.*,
+ b.lng AS lng_d,
+ b.lat as lat_d
+INTO TABLE uber.mumbai_weekends_hourly_with_origin_destination
+FROM
+
+ uber.mumbai_weekends_hourly_with_origin AS a
+JOIN uber.mumbai_centroids AS b
+ON a.dstid=b.id_of_location
+ORDER BY
+a.sourceid;
+
+COPY uber.mumbai_weekends_hourly_with_origin_destination TO '/Users/Harsh/Desktop/Uber_Movement/mumbai_weekends_hourly_OD.csv' DELIMITER ',' CSV HEADER;
+
+
+ALTER TABLE uber.mumbai_weekdays_with_od_2018q1 ADD COLUMN time_period INTEGER;
+UPDATE  uber.mumbai_weekdays_with_od_2018q1 SET  time_period=9;
